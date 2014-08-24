@@ -490,6 +490,23 @@ img {height: auto;}
 	font-size: 16px;
 	-webkit-text-size-adjust: none;
 	}
+	nav ul {
+		margin:0;
+	}
+	nav ul li {
+		margin:0 0 0 1px;
+		padding: 5px;
+		font-size:15px;
+	}
+	header .logo {
+		width: 50px;
+	}
+	header img.check {
+		width: 30px;
+	}
+	header h2 {
+		margin-top:10px;
+	}
 	
 	.row, body, .container {
 	width: 100%;
